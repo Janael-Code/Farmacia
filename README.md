@@ -22,5 +22,6 @@ Este é um sistema simples de farmácia onde o usuário pode escolher medicament
 
 1. Clone este repositório em seu computador.
 
-git clone https://github.com/Janael-Code/Farmacia
+ ```bash
+   git clone https://github.com/Janael-Code/Farmacia
    
